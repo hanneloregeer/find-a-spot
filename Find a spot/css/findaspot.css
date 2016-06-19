@@ -1,0 +1,176 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: #E3E3E8;
+}
+
+.text {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #CFBFAC;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+.hr.style2 {
+	margin-top: 60px;
+	border-top: 3px double #8c8b8b;
+}
+
+# market {
+	background-color: #E3E3E8;
+}
+
+# team {
+	background-color: white;
+}
+
+.logo {
+	width: 200px;
+	margin: 0;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+
+.screenDark {
+	background-color: #092E47;
+	min-height:600px;
+}
+
+.screenLight {
+	background-color: white;
+	min-height: 600px;
+}
+
+.screenLightSmall {
+	background-color: white;
+	min-height: 300px;
+}
+
+.problemStatement {
+	color: #CFBFAC;
+	font-size: 37px;
+	text-align: center;
+	padding-top: 110px;
+	padding-bottom: 90px;
+}
+
+.chapterLight{
+	color: #CFBFAC;
+	font-size: 27px;
+	text-align: left;
+	margin-top: 150px;
+	margin-left: 30px;
+	margin-bottom: 60px;
+}
+
+.chapterDark{
+	color: #232323;
+	font-size: 27px;
+	text-align: left;
+	margin-top: 150px;
+	margin-left: 30px;
+	margin-bottom: 60px;
+}
+
+.story {
+	color: #263238;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+.textLight {
+	color: #ECEFF1;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+.textMiddle {
+	color: #092E47;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 90px;
+}
+
+.textHead {
+	color: #CFBFAC;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 12px;
+} 
+
+.textSub {
+	color: #232323;
+	font-size: 17px;
+	text-align: center;
+	margin-top: 9px;
+	margin-bottom: 200px;
+}
+
+
+.circle {
+	width: 150px;
+	height: 150px;
+	background: #78909C;
+	border-radius: 50%;
+	margin-top: 50px;
+	margin-left: 50%
+}
+
+.circleLow {
+	width: 150px;
+	height: 150px;
+	background: #78909C;
+	border-radius: 50%;
+	margin-top: 250px;
+	margin-left: 50%
+}
+
+.teamPic {
+	width: 150px;
+	height: 150px;
+	background: #78909C;
+	border-radius: 50%;
+	margin-top: 50px;
+	margin-bottom:100px;
+	margin: 0 auto;
+	display: block;
+	box-shadow: 5px 5px 5px #888888;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #232323;
+  background-color: CFBFAC;
+}
+
+.square {
+	width: 300px;
+	height: 500px;
+	background: #78909C;
+	margin-top: 50px;
+	margin-left: 50%
+}
+
+
+.brandIllus {
+	max-width: 80%;
+	top-margin: 50px;
+	margin: 0 auto;
+	display: block;
+}
+
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+}
+
+
+
+
+
